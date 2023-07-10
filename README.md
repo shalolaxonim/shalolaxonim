@@ -2,5 +2,5 @@
 I'm new to Github and eager to learn everything.<br>
 <h1>for now, i use english and work with:</h1>
 <img src="https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png">
-<img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" height="25px">
+<img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" height="25px">
